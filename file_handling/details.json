@@ -1,0 +1,25 @@
+{
+  "id": 101,
+  "name": "Chamith Bhanuka",
+  "age": 25,
+  "email": "chamith@example.com",
+  "location": "Colombo, Sri Lanka",
+  "skills": ["HTML", "CSS", "JavaScript", "React", "Spring Boot", "Express"],
+  "experience": {
+    "years": 2,
+    "projects": [
+      {
+        "title": "Chat Application",
+        "techStack": ["JavaFX", "Socket Programming"],
+        "status": "Completed"
+      },
+      {
+        "title": "Auth App",
+        "techStack": ["Spring Boot", "JWT"],
+        "status": "In Progress"
+      }
+    ]
+  },
+  "volunteer": true,
+  "interests": ["Web Development", "Open Source", "AI"]
+}

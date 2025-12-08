@@ -1,0 +1,3 @@
+line1 line2 line3 We are testing append mode..!
+
+We are testing append mode..!
